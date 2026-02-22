@@ -1,5 +1,5 @@
 # Used-Car-Price-Prediction-Using-Regression-Analysis-
-his project applies Linear Regression to predict used car prices based on vehicle features such as brand, engine specifications, mileage, and other attributes.
+This project applies Linear Regression to predict used car prices based on vehicle features such as brand, engine specifications, mileage, and other attributes.
 
 The workflow includes:
 
