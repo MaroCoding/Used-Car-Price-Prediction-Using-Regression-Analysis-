@@ -3,28 +3,28 @@ his project applies Linear Regression to predict used car prices based on vehicl
 
 The workflow includes:
 
-Data cleaning and handling missing values
+- Data cleaning and handling missing values
 
-Feature engineering (dummy variable encoding)
+- Feature engineering (dummy variable encoding)
 
-Log transformation to improve model assumptions
+- Log transformation to improve model assumptions
 
-Multicollinearity checking using VIF
+- Multicollinearity checking using VIF
 
-Model training and evaluation using scikit-learn
+- Model training and evaluation using scikit-learn
 
-Interpretation of regression coefficients
+- Interpretation of regression coefficients
 
 The goal of this project is to demonstrate a complete end-to-end regression pipeline, from raw dataset to price prediction and model diagnostics.
 
 Technologies used:
 
-Python
+- Python
 
-Pandas & NumPy
+- Pandas & NumPy
 
-Matplotlib & Seaborn
+- Matplotlib & Seaborn
 
-Scikit-learn
+- Scikit-learn
 
-Statsmodels
+- Statsmodels
